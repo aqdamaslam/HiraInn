@@ -25,7 +25,7 @@ The website is hosted on **Google Cloud Storage** and the domain is managed thro
 
 If you want to contribute or run this project locally, follow these steps:
 
-### **1. Clone the Repository**
+### **1. Clone the Repository** 
 
 First, clone the repository to your local machine:
 
